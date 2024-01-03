@@ -1,0 +1,65 @@
+*{
+  background-color: rgb(234, 234, 234);
+  float:center;
+}
+
+
+.main{
+  display:flex;
+
+  flex-direction: row;
+  gap: 50px;
+  margin:middle;
+
+}
+
+
+.first{
+  font-size: 30px;
+  margin-right: 70px ;
+  padding:5%;
+ 
+  
+}
+
+.secound{
+   text-align: center;
+   background-color: rgb(250, 248, 248);
+   width: 370px;
+   height: 350px;
+   box-shadow: 0.7px 0.7px 0.7px rgb(206, 206, 205);
+   border-radius: 10px 10px 10px 10px;
+   border-top: 15px solid white;
+   margin-right: 70px;
+   margin-top: auto;
+   border-color: rgb(251, 252, 252);
+    
+}
+
+input{
+
+  width: 330px;
+  height: 50px;
+  border-radius: 10px 10px 10px 10px;
+  border-color: rgb(251, 251, 252);
+  background-color: white;
+}
+
+#login{
+  width: 330px;
+  height: 50px;
+  color:white;
+  background-color: #1877F2;
+  border-radius: 10px 10px 10px 10px;
+  border-color: rgb(251, 251, 252);
+}
+
+#newaccount{
+  width: 190px;
+  height: 50px;
+  font-size: 12px;
+  color:white;
+  background-color: rgb(12, 204, 25);
+  border-radius: 10px 10px 10px 10px;
+  border-color: rgb(251, 251, 252);
+}
